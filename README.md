@@ -1,5 +1,7 @@
 # AQuitanik
 
+![image](https://github.com/user-attachments/assets/37c727d0-bf2e-43b5-8f2c-47aa5c6eaf85)
+
 ## About Us
 
 We are a relatively small development team that is professionally engaged in node validation. We have quite a lot of experience in this matter. We've been on the topic for 4 years now) You can track our activities on our social networks!
@@ -14,6 +16,16 @@ We are a relatively small development team that is professionally engaged in nod
 
 ---
 
+<p align="center">OUR TEAM LINKS</p>
+<p align="center"><a href="https://x.com/AQuitanik" target="_blank">X.com</a></p>
+<p align="center"><a href="https://keybase.io/AQuitanik" target="_blank">Keybase</a></p>
+<p align="center"><a href="https://hafsats-organization.gitbook.io/aquitanik" target="_blank">Gitbook</a></p>
+
+---
+
+## Projects
+
+### Warden 💧 Side Protocol 💧 Lava 💧 Artela 💧 Stader 💧 Xion 💧 Ojo
 
 
 
